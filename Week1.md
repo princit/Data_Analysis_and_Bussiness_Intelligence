@@ -162,6 +162,7 @@ Components of Data Analytics
     <thead>
       <tr>
         <th>Data analytics</th>
+        <th></th>
       </tr>
     </thead>
     <tbody>
