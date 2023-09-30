@@ -167,7 +167,7 @@ Components of Data Analytics
     </thead>
     <tbody>
         <tr>
-            <td> we analyze data not - number - information - facts figures </td> 
+            <td> we analyze data not : number : information : facts figures </td> 
             <td>if data is in form of non-number</td>
         </tr>
     </tbody>
