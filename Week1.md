@@ -64,3 +64,15 @@
 
   
   ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/c5c27030-42a5-413e-8948-5646b4e0a1f9)
+
+  Business Cycles
+  
+  ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/cccabd72-67a4-4a95-9992-204084e2a6ca)
+
+Data Analytics
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ed62012d-baab-4fde-85c2-83fe4354ab6a)
+
+Components of Data Analytics
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/81e6ee8a-8585-4910-97ad-6745d4d1b6d5)
