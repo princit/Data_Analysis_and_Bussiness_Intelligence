@@ -157,6 +157,7 @@ Components of Data Analytics
     </tbody>
   </table>
 
+
     <table>
     <thead>
       <tr>
