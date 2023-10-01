@@ -146,7 +146,7 @@ Components of Data Analytics
     <thead>
       <tr>
         <th>Quantitative Data</th>
-        <th>Qalitative Data</th>
+        <th>Qualitative Data</th>
       </tr>
     </thead>
     <tbody>
@@ -154,8 +154,16 @@ Components of Data Analytics
             <td> if data is in form of number</td> 
             <td>if data is in form of non-number</td>
         </tr>
+        <tr>
+            <td> 90% in Mathemathics Statistics economics</td> 
+            <td> gender male female used as number</td>
+        </tr>             
+        <tr>
+            <td><tr><td>Nominal <td></tr><tr><td>Oridinal<td> </tr></td> 
+        </tr>
     </tbody>
   </table>
+
 
 <table>
     <thead>
@@ -167,7 +175,8 @@ Components of Data Analytics
     <tbody>
         <tr>
             <td> we analyze data not 1 number 2 information 3 facts figures </td> 
-            <td>if data is in form of non-number</td>
+            <td>if provided information is without context 1 no techique of analysis</td>
         </tr>
     </tbody>
   </table>
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6eb08e53-ae37-4628-bde9-dcebfe3b2c9d)
