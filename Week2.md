@@ -29,6 +29,7 @@ Google sheet -->help -->function list
 
 Fequency -->count
 
+
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e3febb65-46d7-47f9-908b-867d7e2b1f18)
 
---
+
