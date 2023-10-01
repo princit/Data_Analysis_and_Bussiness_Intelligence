@@ -198,3 +198,33 @@ Copy text -->past on google docs --> make world cloud from modren -->
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8585d549-77ea-4760-b953-a7186ffa4d84)
 
 
+<table>
+    <thead>
+      <tr>
+        <th>Size</th>
+        <th>Axis</th>
+        <th>Color</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Large more important </td> 
+            <td>Small less important</td>
+        </tr>
+        <tr>
+            <td>Horizontal direclty concerned </td> 
+            <td>Vertical indireclty concerned</td>
+        </tr>
+          <tr>
+            <td>Statement possitve </td> 
+            <td>Statement negative/td>
+        </tr>
+    </tbody>
+  </table>
+
+Menu based Application
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1dc9764a-e8e3-47ee-8362-dd145a2b58cd)
+
+Command based Application
+
+Range-- Group of Cells -->B3 : D5
