@@ -179,4 +179,5 @@ Components of Data Analytics
         </tr>
     </tbody>
   </table>
+  
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6eb08e53-ae37-4628-bde9-dcebfe3b2c9d)
