@@ -182,3 +182,19 @@ Components of Data Analytics
 
   
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6eb08e53-ae37-4628-bde9-dcebfe3b2c9d)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/aadb7016-abe2-4ce9-86de-d65b22a556f0)
+
+
+**Google world cloud**
+Google Docs
+
+Black doc-->Extension -->search world cloud generation-->install
+
+Copy text -->past on google docs --> make world cloud from modren --> 
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6c2f715c-079d-438f-afd7-6f1fd605c0cb)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8585d549-77ea-4760-b953-a7186ffa4d84)
+
+
