@@ -33,3 +33,11 @@ Fequency -->count
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e3febb65-46d7-47f9-908b-867d7e2b1f18)
 
 
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/57ea9b91-1e7c-4f5a-8c8d-dc86ed087edd)
+
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/0b0086dd-04b3-4dfb-856d-fc2504bd3c7c)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/7af91584-75e1-470b-93c3-9f3ea1705ffb)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/9649af79-fa03-42fb-b818-592e47888c93)
