@@ -14,5 +14,7 @@ From 60 to gighest ->3
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/cfc028cd-b13c-4c46-9a37-5e2bbc3fb42d)
 
+**Data Pivoting (Part 2)**
 
- 
+ ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/f1b3cbbb-2233-4eac-8e1d-5da691368f8f)
+
