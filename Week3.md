@@ -18,3 +18,13 @@ From 60 to gighest ->3
 
  ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/f1b3cbbb-2233-4eac-8e1d-5da691368f8f)
 
+
+**Advanced Functions in Google Sheets**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/9f23242f-0af9-4aad-a230-67dd556f9ae2)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8a2ea839-86b2-402d-b885-35600240d45f)
+
+**Forms and Presentation Outcomes**
+
+
+**
