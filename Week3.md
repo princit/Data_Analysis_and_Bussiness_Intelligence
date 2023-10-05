@@ -36,3 +36,23 @@ Goole Analytics-->Microsoft Analytics
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/126ad712-6fd4-47d3-a23e-67cd69f00aa5)
 
 **Microsoft Excel**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d376bebe-c81d-46d2-a40e-684173246037)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/63106fd7-391d-4385-9378-64a4c0224b0a)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/687c3ae4-0264-41d9-be4d-5530231e82b1)
+
+**Database Management using MS Excel**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8c681afc-e45e-4d95-b3c7-28d5fa8394b2)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ef740a27-067c-408e-9166-1a88d8be5ac6)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/f817b616-5c24-4cd7-a423-4e9ae5aa166d)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/09f6efe2-403d-43d0-9457-24f241c04035)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/36b07094-73d8-4607-b941-8e4d734f87db)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/295fe157-1352-4f69-b7c2-f06d5830ba39)
+
+**Descriptive Analysis using MS Excel (Part 1)**
