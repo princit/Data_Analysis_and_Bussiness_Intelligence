@@ -26,5 +26,7 @@ From 60 to gighest ->3
 
 **Forms and Presentation Outcomes**
 
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6e776ce8-501b-4e70-a479-c27a2fbdc404)
 
-**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6652a8f3-4ad2-42f7-9b2a-39058c115192)
+
