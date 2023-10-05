@@ -30,3 +30,9 @@ From 60 to gighest ->3
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6652a8f3-4ad2-42f7-9b2a-39058c115192)
 
+**Microsoft Tools**
+
+Goole Analytics-->Microsoft Analytics
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/126ad712-6fd4-47d3-a23e-67cd69f00aa5)
+
+**Microsoft Excel**
