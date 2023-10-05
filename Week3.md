@@ -56,3 +56,14 @@ Goole Analytics-->Microsoft Analytics
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/295fe157-1352-4f69-b7c2-f06d5830ba39)
 
 **Descriptive Analysis using MS Excel (Part 1)**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/bfa492a7-c63f-41b9-a6cd-b51c8b2c32da)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/473588dd-4e61-44f6-931a-8cab0555f1ec)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/dee804c5-b895-4579-9a06-2a50a82e97a9)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/fc76ba99-1131-4ff7-a114-4f8234c57116)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/da728544-1365-444e-b523-f756487b1f08)
+
+
