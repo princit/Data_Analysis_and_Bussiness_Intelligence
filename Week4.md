@@ -102,10 +102,27 @@ find subet
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/cc22927a-6b95-458b-bc65-a4e18df97f49)
 
-![Uploading image.png…]()
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/bae35294-c392-48fd-8aa1-fd8265704688)
+
+**Pivot Table in MS Excel (Part 2)**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/b3e1e350-f216-424c-bfad-3234d2d3cc34)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/5130ccf9-3039-40b9-af8f-3ca95e288509)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ed80c4cb-2a25-4713-a9d4-00b9b0cda647)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/138f5c34-c327-4c65-85d0-b7f2fe0c0135)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/50582c04-d1f6-4416-a050-829141735946)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/625cb780-1a63-4bc1-ba5f-6cc129699f71)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a5f1d5b3-ba30-496d-9629-282864ed67af)
+
+press percentage sign
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/3b63bd16-b1e0-4ef0-b3b7-90f68e266aad)
 
 
-
-
-
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ce8742f5-8ebb-496a-a6be-c36c8c40a6bb)
 
