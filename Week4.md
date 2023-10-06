@@ -61,3 +61,51 @@ find subet
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/9724b490-6aa3-46e5-9f42-d434fd87e0b5)
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/00163d1f-f040-4720-8d58-ea8d8eb86ab5)
+
+
+ **Based Visualization in MS Excel**
+
+ ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/fe05f03b-343e-4eb7-9f6e-24f007a4a275)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6df02874-6bc5-40fe-8ef7-2194a908577b)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1b3dc12e-6787-48cc-9a08-2ccb1511e454)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/c286b86f-8b17-4b96-a5ba-d83b0beb3229)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/77a5e4c0-beb8-4bfd-867f-28f4e2691190)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/aecb2b7f-00a4-42b6-83d1-ef133d6d4934)
+
+**Pivot Table in MS Excel (Part 1)**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/830dc4c8-bcb6-4421-8dc8-739c0ea74490)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e03383e4-8942-45ab-9e86-2d82c5a67bb3)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d92b8286-d478-42e1-9f2f-031487dccaf8)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/cb6d304e-60ee-44c5-a71e-12fbb8723003)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e0486726-f7c1-4f12-a74d-5be1ade7986f)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a0de45ce-b625-4509-aa0f-31bf460d12a2)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/b7633102-3855-4175-9a86-a3d25b09bac3)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e7f53978-781f-418a-aee0-0249a861da9e)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/275525d6-fd56-4e89-b174-b4758881ba4b)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/28b2a903-0834-4f22-a41e-a86a1b0102ff)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/c81e80be-1c88-49f8-ac08-3d5318028799)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/cc22927a-6b95-458b-bc65-a4e18df97f49)
+
+![Uploading image.png…]()
+
+
+
+
+
+
