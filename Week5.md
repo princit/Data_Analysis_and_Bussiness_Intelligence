@@ -29,5 +29,6 @@ control + t
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6a6634d4-bb77-4dcf-834b-417144f7f145)
 
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e1f4029a-c8bc-4703-bf06-77e0c965e035)
 
 
