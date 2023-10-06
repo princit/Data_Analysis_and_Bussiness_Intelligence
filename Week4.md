@@ -121,8 +121,4 @@ find subet
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a5f1d5b3-ba30-496d-9629-282864ed67af)
 
 press percentage sign
-![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/3b63bd16-b1e0-4ef0-b3b7-90f68e266aad)
-
-
-![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ce8742f5-8ebb-496a-a6be-c36c8c40a6bb)
 
