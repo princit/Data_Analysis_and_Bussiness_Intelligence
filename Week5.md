@@ -31,4 +31,5 @@ control + t
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e1f4029a-c8bc-4703-bf06-77e0c965e035)
 
+
 **Pattern Development using MS Excel (Part 1)**
