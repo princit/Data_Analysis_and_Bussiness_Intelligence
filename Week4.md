@@ -37,3 +37,27 @@ find subet
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/3c800d9f-bed1-46bb-a21f-8511002fc291)
 
 
+**Developing Series using MS Excel**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6b0423fd-8fa5-4f29-b256-a2681d5c84ca)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/54b0d502-b6c9-4a89-ac8b-5f3eb4342412)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/bb91f229-351b-4bbc-821f-f23f75955d44)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/910ba35c-11ce-451c-b650-19b31f28ba0a)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/5ddabee6-4903-4326-adad-5ab6801a926a)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/7964e8a0-2f91-4c5c-b067-8946a79118c9)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/4e131974-702d-486f-aa3a-c55b59238aaa)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/cde3c01f-3a20-4afe-819f-98aabb31666f)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/91868a6b-1f84-4c56-bdc3-ad6f24d05406)
+
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/9724b490-6aa3-46e5-9f42-d434fd87e0b5)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/00163d1f-f040-4720-8d58-ea8d8eb86ab5)
