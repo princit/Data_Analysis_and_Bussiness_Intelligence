@@ -25,4 +25,18 @@
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/4f112a95-41e9-4052-8b4a-217ae50ac05a)
 
+**MS Excel Add-ins**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6004068c-dba4-423c-a7de-4855772e42ef)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a24e707f-4285-4919-a9f8-8b1a2cc81284)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/834071bb-a9e9-4a87-8226-0b9591b47b4a)
+
+**Microsoft Power BI**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/2c36195c-02de-4b12-805f-6047c47ffb20)
+
+**Graphs & Charts in Power BI Desktop**
+
+**Power BI Desktop Models**
 
