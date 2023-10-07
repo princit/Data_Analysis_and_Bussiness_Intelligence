@@ -33,3 +33,28 @@ control + t
 
 
 **Pattern Development using MS Excel (Part 1)**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/c7cbb548-3ad6-4d23-ab01-4e7a69a96eac)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/5cedf968-4204-4375-8aac-54d7a8cd4cbb)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8b99393f-45bd-461e-8fb3-d2c2a64a82b3)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/48399092-357d-4a2e-92f8-55f19cc16eaa)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/40314256-8e5f-4396-89f3-4ae416402d25)
+
+**Pattern Development using MS Excel (Part 2)**
+
+Data -->
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/2a2936ce-f3b0-4a67-a97e-b517a665ecb8)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a98b2ded-beaa-4ab7-ba07-b5593ebb8804)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6eee7cc9-3e02-4795-bb22-2763f349a901)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/14441732-aa51-4997-a01d-22de1b23c3cd)
+
+
+ **Pattern Based Visualization using MS Excel**
+
