@@ -1,4 +1,4 @@
-**Macros in MS Excel**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e5583e12-0fd9-4ba3-bb63-679766fbaa20)**Macros in MS Excel**
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/c9236c21-b9d8-42d1-beeb-95a9bd2fa4c9)
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/43aa5b81-34be-4e7f-bd9b-6356fa52397d)
@@ -66,6 +66,17 @@ Data -->
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/344712f4-9e83-4b2c-9d64-8ae3ccf4bb8e)
 
+**Forecasting and Prediction in MS Excel**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/87c4b531-ef92-4456-82b7-74290625553e)
 
 
+**Lookup Functions in MS Excel**
 
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/16a8a795-9046-4ace-b495-f9fabe4d7618)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/541a631d-faad-40c7-b392-df6e341ba412)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/52e03158-42cf-4266-be4d-f41c62119af4)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8e43dd39-ea6e-47a1-aac1-d5a2a385e2bf)
