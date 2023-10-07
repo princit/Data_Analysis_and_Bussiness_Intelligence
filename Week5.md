@@ -58,3 +58,14 @@ Data -->
 
  **Pattern Based Visualization using MS Excel**
 
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/29f00c0a-ddda-43b2-9b4d-8dbd9c17344f)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/17d19465-e625-470e-879e-19bc65dd69f8)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/20af06cc-49a0-4bea-833b-461489e8b67a)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/344712f4-9e83-4b2c-9d64-8ae3ccf4bb8e)
+
+
+
+
