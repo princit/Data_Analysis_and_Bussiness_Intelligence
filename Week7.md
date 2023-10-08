@@ -7,3 +7,26 @@
 **Discovering and Loading Power BI Desktop**
 
 **Dealing with Different Datasets in Power BI Desktop**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/2e3efa21-23f4-4b9b-b83a-cbc72ec71f3b)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/67f06355-7952-489e-9047-79894a3b695b)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/3319483e-b070-439e-b3ce-5e493d88917e)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/62352e34-1866-4864-9492-360bcdbf8d3a)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/cc480793-6f57-4583-b95a-8cc2f107bbb5)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/68297f5e-49b7-4230-a43a-cd2810719147)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/261a7912-7195-4768-9243-936fb30a338c)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/62b30162-b38b-43ec-9478-146674ea0306)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/bef7193a-da5d-45ba-853f-691d2ef1ea9c)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/9322516b-fa30-47f8-a45c-c9b8d583ace2)
+
+**Power BI Desktop Query Examples**
+
