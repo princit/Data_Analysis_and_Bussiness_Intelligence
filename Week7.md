@@ -30,3 +30,17 @@
 
 **Power BI Desktop Query Examples**
 
+income * 1000
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/0d965928-5ed5-4550-afaa-14f3ec5e4187)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8c7fe930-f025-48b9-bdad-ac5ac5be780b)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d063f1c3-976e-4314-9e1f-dde5b8d9b26e)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/c37dc6e6-e378-45b4-9c5b-7284ae9546ab)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/710c8203-3aec-4a75-99ec-24b3ab1d2b62)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a8fe366b-fd57-4061-b69b-7c65ac85ba93)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1350a143-1a81-4832-a434-483fe2ecfb0b)
