@@ -44,3 +44,30 @@ income * 1000
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a8fe366b-fd57-4061-b69b-7c65ac85ba93)
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1350a143-1a81-4832-a434-483fe2ecfb0b)
+
+
+**Power BI Data Queries**
+
+Data Analysis Expression (DAX)
+
+Click on Transform Data
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/7a1aa544-640d-43a9-8047-d1afd13abcca)
+
+on clicking 2 column merge column will be active
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/cb73c51e-3437-4790-86bd-1182b94c8963)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/41bccb57-db19-4faa-ac99-400a35ccc3f5)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/550c7bfb-aecd-46b6-8b87-e35cd323f2ad)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/970a43c5-088d-4c7d-affa-7e2d604f6eb5)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ecdc3ff4-f836-487f-9a0c-1cae6c5c0a68)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/fa822335-8d46-4444-9a26-15b45768d357)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/84441718-17d0-4d66-8e74-68894ebaa8d1)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a4b89b0f-47ea-443b-99a6-22849d9f10d8)
+
