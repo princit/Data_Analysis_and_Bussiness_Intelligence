@@ -71,3 +71,28 @@ on clicking 2 column merge column will be active
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a4b89b0f-47ea-443b-99a6-22849d9f10d8)
 
+**Data Transformations using Power BI Desktop (Part 1)**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/47eaa68f-51c1-4d47-bb84-0107fac4f71b)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/eab31acf-ee28-45f3-a87a-ceb788c9071a)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/f5ad9c15-d011-43af-9855-933fdffe7a37)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/5a21f349-a622-4ccc-ac1a-b105e913ca72)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/7cefd125-a471-4256-ada6-8d006567ccc6)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/dbc241b4-1560-47e2-9a2a-d73255cce366)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/cdc7eaeb-88eb-4bd2-b4e4-982d3b7ce865)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/62daabf8-b1c4-4b4a-9691-9f75fd356fcc)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d0225b74-3b40-4e78-807a-4b49fcf5d443)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d17f85ef-c5fa-4ec8-bebc-52cc8bbb4af5)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/2463966d-d71b-45e0-b0c5-77130e9b6d44)
+
+
+
