@@ -46,3 +46,7 @@
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d6a57669-32ed-46e4-acb9-15d7fb28b87d)
 
+
+**Relational Power using Power BI Desktop**
+
+**First Power BI Desktop Dashboard**
