@@ -40,3 +40,9 @@
 
 **Power BI Desktop Models**
 
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/afae15df-22b7-433c-a0f9-d67e88f81261)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/21b340b3-240f-4177-813d-52fe02892f71)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d6a57669-32ed-46e4-acb9-15d7fb28b87d)
+
