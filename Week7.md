@@ -106,3 +106,9 @@ Add column -->add new column
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/267ceace-57d9-4a63-974a-da65e4fb3f7c)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6c153045-dcb9-4057-83c2-79b243632d85)
 
+**Data Transformations using Power BI Desktop (Part 3)**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1a8f2123-db8d-490b-b327-a4b3410a3772)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/b50dfd89-96d9-460a-b783-7ee06a0bfc20)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8882ab78-c079-42ab-a4b1-76d8593f3783)
+
+
