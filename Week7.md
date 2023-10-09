@@ -94,5 +94,15 @@ on clicking 2 column merge column will be active
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/2463966d-d71b-45e0-b0c5-77130e9b6d44)
 
-
+**Data Transformations using Power BI Desktop (Part 2)**
+tranform -->change the same column
+Add column -->add new column
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/0803878c-c114-4bec-88d2-dedf7483e631)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/25beea89-553f-4ba6-a607-8fb3a0ae2985)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e5c7a8a7-77ad-462b-a9da-74603255f259)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1cc2d768-405f-4406-b8da-918968f32f5a)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e8a755ee-c49b-4e89-b5e0-2b59a1b351c3)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/eeef3f04-1be2-4f6d-abc4-c06602b4b420)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/267ceace-57d9-4a63-974a-da65e4fb3f7c)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6c153045-dcb9-4057-83c2-79b243632d85)
 
