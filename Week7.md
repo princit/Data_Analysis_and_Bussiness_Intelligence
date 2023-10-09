@@ -110,5 +110,6 @@ Add column -->add new column
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1a8f2123-db8d-490b-b327-a4b3410a3772)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/b50dfd89-96d9-460a-b783-7ee06a0bfc20)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8882ab78-c079-42ab-a4b1-76d8593f3783)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/f0aafc77-78fc-4d88-a189-3a9010da5d97)
 
 
