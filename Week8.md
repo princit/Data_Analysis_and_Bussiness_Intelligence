@@ -54,3 +54,5 @@ new neasure doesnt create column but this can be used in calcultion
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/3dbcb782-35ba-4d5d-b2ab-a12fe19d64dc)
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/283a0b0c-ffc5-40a7-9857-ca3b96f96c7a)
+
+
