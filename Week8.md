@@ -81,6 +81,11 @@ new neasure doesnt create column but this can be used in calcultion
 
  **Power BI using Geographical Maps**
 
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ac87a984-f7cb-425d-8a2b-0a8bfd02e4bd)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/0de9a8b7-69b9-4fdb-b8e3-2c50220f3a3c)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/50e976b2-df01-434f-b287-a33b33b749ed)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a153bc54-a2e9-4198-b959-f29dbbc4f0eb)
+
 
 
 
