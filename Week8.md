@@ -42,3 +42,15 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/46e58332-41ae-4d60-893b-ec959b869f99)
 
 **Creating Data using Power BI Desktop**
+
+new neasure doesnt create column but this can be used in calcultion
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/79ac21ff-a539-4ce9-affa-737d15bb7ccc)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/48c3528a-2f1a-432f-a282-30ebcb946211)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a6d4fc32-3555-4851-b987-cdf6137844bd)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/3dbcb782-35ba-4d5d-b2ab-a12fe19d64dc)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/283a0b0c-ffc5-40a7-9857-ca3b96f96c7a)
