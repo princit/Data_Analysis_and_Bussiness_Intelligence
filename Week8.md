@@ -55,4 +55,21 @@ new neasure doesnt create column but this can be used in calcultion
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/283a0b0c-ffc5-40a7-9857-ca3b96f96c7a)
 
+**Conditional Formatting in Power BI Desktop**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/14d34b15-e284-4b0b-8756-01a46dd72b08)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/496a94c9-eee4-4fe7-a446-13027d9039a5)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/682e5b77-bcc9-4d3a-9875-ff97a40e56d1)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/84872494-1ea3-4998-adb3-beb52bae80d4)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/3d9c2f15-4c1e-4153-9da4-2bb17c1a05dd)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d5342f63-d888-48cd-bf73-76884e2ada01)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/48825a77-278e-4541-b245-ee46b4cbbc5c)
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/436836b3-1ffb-4895-b7f0-551411c3c83b)
 
