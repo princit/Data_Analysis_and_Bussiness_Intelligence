@@ -73,3 +73,11 @@ new neasure doesnt create column but this can be used in calcultion
 
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/436836b3-1ffb-4895-b7f0-551411c3c83b)
 
+
+**Developing Cards using Power BI Desktop**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/2592d1d9-7372-40a0-b387-911e8382a6d3)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/7a0f63a6-1a45-47dd-818a-9bc931f93851)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/80c7c499-b49f-43b6-a9d9-8444a4e271c2)
+![Uploading image.png…]()
+
+ **Power BI using Geographical Maps**
