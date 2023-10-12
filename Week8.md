@@ -86,7 +86,8 @@ new neasure doesnt create column but this can be used in calcultion
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/50e976b2-df01-434f-b287-a33b33b749ed)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a153bc54-a2e9-4198-b959-f29dbbc4f0eb)
 
-
+**Exporting Dashboards from Power BI Desktop**
+ **R Programming Language - An Introduction**
 
 
 
