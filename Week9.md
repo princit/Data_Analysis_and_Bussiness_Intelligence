@@ -30,5 +30,25 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/5c175d03-b6b0-4b74-8254-81b9b6eac4ec)
 
 **Visualizing Aggregate using R**
+R help
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/17ad353f-89e1-4d35-a056-46ef2eff41a2)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ab91e85c-d59a-4c1e-b9ba-c9787886a8f9)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d7a26dee-8f99-41d1-89a8-d914e420a515)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/f7801340-30f6-4ab4-9fe9-429b686412b1)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8417da74-1eb3-40e2-9d3b-ff1ffc4fb288)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/15910b1e-4576-4c47-9344-dd17199841a8)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/9237333e-87eb-431d-98c5-fed108c4bbbc)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/b9c5416e-d386-4996-88fb-c5f027b6af0a)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/60aad123-36ca-4e14-a0d8-48c8fbb14f86)
+
+**Multiple Plots using R**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e92fb945-87f4-416a-986b-9e9ce8e79b82)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a68aa186-efaa-436a-9e6b-654afb27e9c0)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1916bd63-d6da-4827-845a-ea31a9e6f8ca)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/40d82194-208f-495d-8e58-92c8d9e66cc4)
+
+**Exploratory Data Analytics**
+
 
 
