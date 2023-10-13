@@ -16,3 +16,10 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/b8dcbfed-edb0-4134-ae59-3a260d1aad00)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d954a884-f723-4842-865c-cbcd525c34ba)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a263782e-3923-47cf-9c46-9a7db9c50f19)
+
+**R Programming Language - Functions**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ee2561a3-f2eb-4a38-bc22-848ea699071d)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8561f588-ebd8-4329-a0a8-b5b9af3aabc3)
+
+**R Visualization**
+
