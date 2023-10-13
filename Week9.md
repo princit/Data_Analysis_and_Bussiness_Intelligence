@@ -22,4 +22,13 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8561f588-ebd8-4329-a0a8-b5b9af3aabc3)
 
 **R Visualization**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/23e19676-0e1a-4b24-9917-b0cfe2551559)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/5f70a115-66db-4f56-b112-918c41904aa1)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/80da6863-ad79-40ac-be3e-d72792f37f11)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1ef4c368-0074-4169-94a4-6fdc09419844)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/fd601df1-5199-44ee-814a-51830be34275)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/5c175d03-b6b0-4b74-8254-81b9b6eac4ec)
+
+**Visualizing Aggregate using R**
+
 
