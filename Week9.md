@@ -49,6 +49,7 @@ R help
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/40d82194-208f-495d-8e58-92c8d9e66cc4)
 
 **Exploratory Data Analytics**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/12a39c10-478c-459d-b16d-93e0f265c768)
 
 
 
