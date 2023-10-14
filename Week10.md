@@ -40,3 +40,15 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/541578e0-94bb-4bcb-8938-a02e6be03099)
 
 **R Interface using Power BI**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e8427ee2-5daf-4bd9-9ee8-178ae4723f8c)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/4014dc64-af96-4cb2-bb54-86ca4f95fe8f)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e7adfd33-274a-4546-ad3a-c50cb78e8283)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1d3e2a24-f63c-4326-a60d-812474312d8f)
+
+
+ 
+ **R GUI Interfaces**
+ ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/60f95422-95c3-402e-9d59-28c92cff8b91)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/5d29e715-ce23-4d37-8104-bcf265f425a5)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/28004470-a142-4eb0-9861-0411c299a566)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/43331794-b544-416a-bc64-b33ef5a88d5b)
