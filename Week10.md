@@ -23,5 +23,15 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8ca13ef8-f969-45f1-898a-8e77bc7e80f7)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/859d454a-e92b-4da7-8c3d-22bcff09ebf0)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1f99bf6b-d672-49d4-bd8c-8d82b5f64b48)
-![Uploading image.png…]()
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ff3cd197-ed1b-4d2c-ad37-bfa4adf9dbf8)
+
+**Developing Segments using R (Part 2)**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8d9ddec9-4588-4365-a206-a0d57cdc3627)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/0240d346-1edb-40e9-a396-1454f672dfa7)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/7fda826c-9b84-4c7b-9f39-4e4fab635d80)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d22c05ab-d813-4f46-b9e4-bc14317e6e37)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/fd35b5ad-ae0c-45d6-97cc-38b6a67e759a)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1b52df8c-4674-40ae-b6f5-00a4ea6df78e)
+
+**Developing Segments using R (Part 3)**
 
