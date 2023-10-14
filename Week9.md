@@ -50,6 +50,14 @@ R help
 
 **Exploratory Data Analytics**
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/12a39c10-478c-459d-b16d-93e0f265c768)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/638dbc89-988f-4a68-a844-4927b81a8675)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6cbac73e-98dc-4330-b1a7-978f2f3794bb)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a9391825-24c1-41e8-b58a-8a0afb1947e4)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/958265d5-9883-444f-b56a-0d8f95b2b1ee)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/af11253c-7c7c-42e1-8846-f2c30a2e076a)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ef3ae1da-a33a-48fc-8c07-ef329fc030df)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/cef02ad7-ae65-4b07-8596-7de04fadd133)
+
 
 
 
