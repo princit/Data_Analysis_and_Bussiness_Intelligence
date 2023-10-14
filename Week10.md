@@ -34,4 +34,9 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1b52df8c-4674-40ae-b6f5-00a4ea6df78e)
 
 **Developing Segments using R (Part 3)**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/f4299ce0-e0c1-4966-bd1a-b9be215762b1)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/08370263-89f2-4d6e-ac1b-0d9e691b5bbf)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d3cd6e19-433c-4b2b-8a54-f3e4697be12f)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/541578e0-94bb-4bcb-8938-a02e6be03099)
 
+**R Interface using Power BI**
