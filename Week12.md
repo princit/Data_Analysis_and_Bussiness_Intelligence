@@ -44,6 +44,6 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/3deb8549-6a07-417d-9ba4-db3484aaab18)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/c64e4a53-e30e-4809-8821-5690d93d8483)
 
-
+**Advanced Analytical Tools**
 
 
