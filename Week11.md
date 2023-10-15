@@ -33,8 +33,24 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/60d7ce3a-9415-409f-9c17-c0325d8bd870)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/0955158f-989c-4c77-8c12-d6cbbbdae4f8)
 
+**Five Ways using Tableau**
 
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a5d019df-bdf1-4dcc-9f77-c830b315e50d)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/e14186ef-8d95-4297-9fa9-5e772779fbb1)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/33a9f0e6-37e1-4f24-b85e-c6509e6fc349)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/39e8f69e-d837-454d-9306-4362c18c8acc)
 
+**Date Hierarchies**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/fd3dfd64-9b0e-47e3-9493-d325910c7388)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1f30e65e-d474-4467-b8f3-fc352eea5546)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/71504d49-f82e-4c53-a864-7834e8910fdc)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/6f3099ac-50a1-4df1-882f-cc8dd806d75c)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/93d5ae8c-637a-4235-bcd2-709a465f3700)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/3a9bd2b2-36a4-49aa-8026-ec54afe866e0)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1c64e05e-7d24-4c44-a374-f0d3548a26be)
+
+**Level of using Tableau**
 
 
 
