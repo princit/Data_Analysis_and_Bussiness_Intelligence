@@ -66,15 +66,17 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/06f4a1e1-1bcd-49c4-b0c7-da5f3ba468c5)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/5c528265-017e-453c-8cd5-257a424f7d44)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/23cb4456-7bab-4bed-921d-71a594ba2131)
-
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a7daf237-2096-43cf-bbbc-32e3f1022b05)
-
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/b7911536-eec7-411a-a7f7-d96e8271434b)
-
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/022e63d1-2bc3-4f1d-b2a5-331b91dc1ee5)
-
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d7f80a00-3702-475f-b7fa-a6dce7477628)
- **Calculated Fields using Tableau**
  
+ **Calculated Fields using Tableau**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/db208481-c196-49b5-b1dc-3458071c5228) 
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1f34fa5a-9e09-4876-846a-415ebbca94ba)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/dfefdd73-f2a4-4993-96f6-d2251ce1079b)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/1f19b2cd-207f-440c-969d-23c5071487ea)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/5694eed7-eb29-4a09-81e6-e642fb07b30e)
+
 
 
