@@ -10,4 +10,13 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8a3af946-561c-4a77-abab-a6bc964d530a)
 
 **Expressions using Tableau**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/ecfc0dc3-85f2-4b62-82d3-96c2b10b27b7)
+
+ ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/faab0a33-fab7-47a8-b9af-cfee9482cc54)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a66a88f7-1467-46ba-b76c-10c6da8405ba)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/2aafad00-d4ae-4f7f-94a8-4fb81f971a91)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/a3d2a13f-f040-4acf-8991-96986e69f60a)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/9dfd9b0f-5a95-4904-965a-80a8dbf490bb)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/dc0ce446-04c6-4fc0-a255-5f8a5d7a6cca)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/61768720-ecef-4c9c-9e0c-1f2952cf5128)
 
