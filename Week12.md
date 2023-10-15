@@ -26,4 +26,24 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d96ac2ef-3e97-4a9d-9095-35b8001b7757)
 
 
+**Highlight/Heatmap Table using Tableau**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/fb922261-6c80-45b1-b402-8deb3e671380)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/14628481-e84e-4d2c-b899-b62e9e7aa157)
+
+**A Dual-Axis using Tableau**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/086149a6-b1d8-4b84-ac5f-3a1897419c98)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/33ec05ce-65da-4b58-a885-8e582d1b9928)
+
+**Advanced Graphs using Tableau**
+
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/bd79d33f-7750-4f3d-9e69-cc6f84ca1080)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/0eac8784-4419-4589-bbae-9b5f80f97dca)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/2da74f14-73de-4d3f-90c2-8bb06225d07c)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/3deb8549-6a07-417d-9ba4-db3484aaab18)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/c64e4a53-e30e-4809-8821-5690d93d8483)
+
+
+
 
