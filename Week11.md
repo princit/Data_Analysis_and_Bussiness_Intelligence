@@ -52,5 +52,14 @@
 
 **Level of using Tableau**
 
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/eb3e8a9d-4a35-4b45-8d8d-19e06fb4e2ee)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/8caec06d-28fa-4c9f-89d5-1fdcebe22d97)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/158608e4-144d-406f-ad64-4da43bbc2f3b)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d2e4554f-f2b2-4cc0-ac92-206b57106f64)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/2754d021-48a4-4db1-9b76-ed5f5f3fc67a)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/41bc26e8-6e7f-410e-bf9e-dec24d58a089)
+
+**Filters using Tableau**
+
 
 
