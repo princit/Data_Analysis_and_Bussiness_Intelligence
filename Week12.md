@@ -20,3 +20,10 @@
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/dc0ce446-04c6-4fc0-a255-5f8a5d7a6cca)
 ![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/61768720-ecef-4c9c-9e0c-1f2952cf5128)
 
+**Dashboards using Tableau**
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/2259f65b-3afb-4810-a053-eee30f3ab58c)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d8fb67c6-a18b-4432-b394-9f4b1be36374)
+![image](https://github.com/princit/Data_Analysis_and_Bussiness_Intelligence/assets/29123911/d96ac2ef-3e97-4a9d-9095-35b8001b7757)
+
+
+
